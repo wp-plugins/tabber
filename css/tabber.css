@@ -1,0 +1,9 @@
+/* Tabber */
+
+#sidebar-tab{border:0px;margin-bottom:1.5em;overflow:hidden;} 
+#tab-title h3{color:#666;font-size:8px;font-weight:150;} 
+#tab-title .selected{color:#356aa0;border-bottom:0px;} /*标题被选中时的样式*/ 
+#tab-title span{padding:5px 9px 5px 9px;border:0px;border-right:0px;margin-left:-1px;cursor:pointer;} 
+#tab-content .hide{display:none;} /*默认让第一块内容显示，其余隐藏*/ 
+#tab-content ul{padding:5px 5px;overflow:hidden;} 
+#tab-content ul li{padding-top:5px;overflow:hidden;} 
